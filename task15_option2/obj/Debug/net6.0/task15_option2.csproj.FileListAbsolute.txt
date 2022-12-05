@@ -1,0 +1,15 @@
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\bin\Debug\net6.0\task15_option2.exe
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\bin\Debug\net6.0\task15_option2.deps.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\bin\Debug\net6.0\task15_option2.runtimeconfig.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\bin\Debug\net6.0\task15_option2.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\bin\Debug\net6.0\task15_option2.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\task15_option2.csproj.AssemblyReference.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\task15_option2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\task15_option2.AssemblyInfoInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\task15_option2.AssemblyInfo.cs
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\task15_option2.csproj.CoreCompileInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\task15_option2.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\refint\task15_option2.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\task15_option2.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\task15_option2.genruntimeconfig.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#_HomeWork\task15_option2\obj\Debug\net6.0\ref\task15_option2.dll
