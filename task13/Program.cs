@@ -4,3 +4,20 @@
 // // 32679 -> 6
 
 // Я не смогла решить данную задачу самостоятельно. Видела решение, но сама бы не смогла. Поэтому здесь пусто (
+
+    Console.Write("Введите число: ");
+    int num = Math.Abs(int.Parse(Console.ReadLine()));      //Чтобы программа проверяла и отрицательные числа, используем Math.Abs
+
+    if(num < 100)
+    {
+        Console.WriteLine("Третьей цифры нет");
+    }
+    else
+    {
+        while(num >= 1000)
+        {
+            num = num / 10;
+        }
+    int thirdNumber = num % 10;
+    Console.WriteLine($"Третья цифра числа {thirdNumber}");
+    }
